@@ -9,7 +9,9 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Anu. H A</h1>
         <p className={styles.description}>
-        I am a passionate frontend developer with 1.5 years of experience in building dynamic, responsive, and user-friendly web applications using Reactjs. 
+        I am a passionate frontend developer with 1.5 years of experience 
+        in building dynamic, 
+        responsive, and user-friendly web applications using Reactjs. 
         </p>
         <a href="mailto:anuanuha2001@gmail.com" className={styles.contactBtn}>
           Contact Me
