@@ -1,0 +1,13 @@
+[
+  {
+    "role": "Associate Engineer",
+    "organisation": "Cigniti Technology" ,
+    "startDate": "Febraury, 2024",
+    "endDate": "Present",
+    "experiences": ["worked on Franchise Portal of Neighbourly Central"],
+    "clientimageSrc": "history/nbly_logo.jpg",
+    "companyimageSrc":"history/cigniti_inc_logo.jpg",
+    "project_url":"https://franchise-portal.nblydev.com/",
+    "company_url":"https://www.cigniti.com/"
+  }
+]
