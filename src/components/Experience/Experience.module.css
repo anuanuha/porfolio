@@ -126,6 +126,8 @@
   color: var(--color-text);
   margin-left: 5%;
   margin-right: 5%;
+  margin-bottom: 10px;
+  margin-top: 20px;
 }
 
 .title {
@@ -178,7 +180,8 @@
 }
 
 .history {
-  width: 45%;
+  margin-left: 10px;
+  width: 55%;
   display: flex;
   flex-direction: column;
   gap: 40px;
@@ -196,7 +199,7 @@
 }
 
 .historyItem img {
-  width: 50px;
+  width: 70px;
 }
 
 .historyItemDetails {

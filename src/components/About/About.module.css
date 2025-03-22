@@ -4,7 +4,8 @@
   position: relative;
   background-color: rgba(12, 12, 12, 0.6);
   border-radius: 15px;
-  padding: 73px;
+  padding-left: 73px;
+  padding-right: 73px;
   z-index: 1;
   margin-left: 5%;
   margin-right: 5%;
@@ -16,6 +17,7 @@
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
+  padding-top: 20px;
 }
 
 .content {
@@ -78,10 +80,6 @@
 
   .aboutImage {
     display: none;
-  }
-
-  .aboutItems {
-    margin-top: 29px;
   }
 
   .aboutItem {
